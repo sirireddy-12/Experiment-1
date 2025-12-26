@@ -1,1 +1,2 @@
 This file is used to understand git Staging.
+This change is done in feature-update branch.
